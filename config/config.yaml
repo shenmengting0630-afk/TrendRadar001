@@ -501,7 +501,7 @@ ai_analysis:
 
                                     # api 成本估算 (仅供参考)
                                       # 按默认模型(deepseek)
-                                      # max_news_for_analysis 为 【50】 条
+                                      # max_news_for_analysis 为 【25】 条
                                       # include_rank_timeline 为 【false】
                                     # 则
                                       # GitHub Action 部署默认推送约 20 次（每小时推送一次）， 约 0.1 元/天
