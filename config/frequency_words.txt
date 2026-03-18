@@ -149,26 +149,65 @@
 
 [WORD_GROUPS]
 
-
-[中国科技互联网]
-/DeepSeek|深度求索|华为|鸿蒙|阿里巴巴|Alibaba|腾讯|字节跳动|抖音|ByteDance|百度|小米|中芯国际|SMIC|科大讯飞/
-
-[国际科技巨头]
-/NVIDIA|英伟达|AMD|微软|Microsoft|谷歌|Google|亚马逊|Amazon|Meta|英特尔|Intel|IBM|甲骨文|Oracle/
-
-[AI基础设施]
-/人工智能|\bAI\b|大模型|LLM|芯片|半导体|云计算|Cloud|操作系统|数据库|算力|推理|训练/
-
-[前沿科技]
-/科研突破|技术突破|研发成功|专利|科技投资|制裁|技术封锁/
-
-[内容平台生态]
-/抖音|小红书|B站|哔哩哔哩|微博|知乎|YouTube|TikTok|\bX\b|Twitter|Instagram|Discord|Telegram/
-
 [AI设计]
-/AI设计|AIGC|UI生成|UX生成|Figma|设计插件|设计Agent|设计自动化|Midjourney|Runway|Sora|Stable Diffusion|即梦/
+AIGC
+UI生成
+UX生成
+Figma
+设计插件
+设计Agent
+设计自动化
+Midjourney
+Runway
+Sora
+Stable Diffusion
+即梦
+
+
+
+
+# ═══════════════════════════════════════════════════════════════
+#                         科技领域
+# ═══════════════════════════════════════════════════════════════
 
 [AI代码工作流]
-/Claude Code|Cursor|Copilot|Pencil|Figma|AI编程|代码生成|低代码|无代码|自动化工作流|AI Agent/
+Claude
+Code
+Cursor
+Copilot
+Pencil
+代码生成
+低代码
+无代码
+自动化工作流
+AI Agent
 
+[内容生态]
+抖音
+小红书
+B站
+哔哩哔哩
+微博
+知乎
+YouTube
+TikTok
+\bX\b
+Twitter
+Instagram
+Discord
+Telegram/
+
+[互联网]
+DeepSeek
+深度求索
+华为
+鸿蒙
+阿里巴巴
+Alibaba
+腾讯
+字节跳动
+抖音
+ByteDance
+百度
+小米
 
