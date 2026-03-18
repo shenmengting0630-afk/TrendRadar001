@@ -67,6 +67,10 @@ platforms:
       name: "bilibili 热搜"
     - id: "cls-hot"
       name: "财联社热门"
+    - id: "ifeng"
+      name: "凤凰网"
+    - id: "tieba"
+      name: "贴吧"
     - id: "weibo"
       name: "微博"
     - id: "douyin"
@@ -413,7 +417,7 @@ ai:
   
   model: "kimi2.5"
 
-  api_key: "sk-kimi-hWtJZaOtD0EmgSU7s6KzaYjqfAwExbx1agsF4zpLrwSeClxVBy10n4MwpdF2e0wn"                       # API Key（建议使用环境变量 AI_API_KEY）
+  api_key: "https://bytedance.larkoffice.com/docx/LZNgdWo9aodPmWx8jFmcWJk1nlh"                       # API Key（建议使用环境变量 AI_API_KEY）
   
   api_base: "https://api.kimi.com/coding/"                      # 自定义 API 端点（可选，大多数情况留空）
                                     # 示例: https://api.openai.com/v1（自建代理或兼容接口）
